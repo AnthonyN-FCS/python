@@ -60,4 +60,4 @@ def get_data(key):
 
     return 
 
-get_data("rough_opal_gem")
+#get_data("rough_opal_gem")
